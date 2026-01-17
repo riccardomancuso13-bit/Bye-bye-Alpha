@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.riccardomancuso13_bit.twa",
+        "sha256_cert_fingerprints": ["0A:2F:EE:13:A6:87:84:16:A6:E4:6D:BC:F1:AB:63:E8:A6:E9:6B:E2:9C:6C:23:78:74:6E:B0:5F:17:2C:E2:4B"]
+      }
+    }]
